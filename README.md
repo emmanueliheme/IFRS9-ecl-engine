@@ -1,5 +1,7 @@
 # IFRS 9 Expected Credit Loss Engine
 
+**Live demo:** https://eci-ifrs9-ecl-engine-knowel.streamlit.app
+
 An end-to-end, loan-level IFRS 9 impairment engine: **staging with auditable SICR triggers, lifetime PD term structures from rating migration, collateral-driven LGD, amortising / revolving EAD profiles, and probability-weighted macroeconomic scenarios** — with an interactive Streamlit dashboard and disclosure-ready Excel output.
 
 Built on a synthetic 5,000-facility Nigerian bank portfolio (₦1.06trn EAD across Retail, SME and Corporate) so it can be shared publicly. Point it at your own loan tape and it runs the same way.
