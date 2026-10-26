@@ -6,7 +6,7 @@ An end-to-end, loan-level IFRS 9 impairment engine: **staging with auditable SIC
 
 Built on a synthetic 5,000-facility Nigerian bank portfolio (₦1.06trn EAD across Retail, SME and Corporate) so it can be shared publicly. Point it at your own loan tape and it runs the same way.
 
-> Author: **Emmanuel C. Iheme** — Insight Analytics & Risk Profiling Analyst · Basel III · IFRS 9 · CBN Risk-Based Supervision
+>> Author: **Emmanuel C. Iheme** — Insight Analytics & Risk Profiling Analyst · Basel III · IFRS 9 · CBN Risk-Based Supervision
 
 ---
 
